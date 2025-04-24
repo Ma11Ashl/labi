@@ -1,0 +1,51 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+        <RadioGroup
+            android:layout_width="219dp"
+            android:layout_height="248dp"
+            android:layout_centerInParent="true">
+
+            <RadioButton
+                android:id="@+id/white_button"
+                android:layout_width="88dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:checked="true"
+                android:text="White" />
+
+            <RadioButton
+                android:id="@+id/blue_button"
+                android:layout_width="89dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/white_button"
+                android:layout_marginTop="16dp"
+                android:text="Blue" />
+
+            <RadioButton
+                android:id="@+id/green_button"
+                android:layout_width="87dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/blue_button"
+                android:layout_marginTop="16dp"
+                android:text="Green" />
+
+            <Button
+                android:id="@+id/save_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Save" />
+
+        </RadioGroup>
+    </LinearLayout>
+</RelativeLayout>
