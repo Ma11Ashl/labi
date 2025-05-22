@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string-array name="string_array">
+        <item>Алоха Мора</item>
+        <item>Экспеллиармус</item>
+        <item>Авада Кедавра</item>
+        <item>Риддикрулус</item>
+        <item>Левиоса</item>
+        <item>Акио</item>
+        <item>Лумос</item>
+        <item>Редукто</item>
+        <item>Авада Кедавра</item>
+        <item>Ступефай</item>
+        <item>Левикорпус</item>
+        <item>Империо</item>
+        <item>Сектумсемпра</item>
+        <item>Круцио</item>
+        <item>Фините Инкантатем</item>
+        <item>Петрификус Тоталус</item>
+        <item>Форцифорцидо</item>
+        <item>Мобикулус</item>
+        <item>Экспеллиармус</item>
+        <item>Проектор</item>
+        <item>Окклюзо</item>
+    </string-array>
+
+    <string name="registration">Регистрация</string>
+
+    <string name="full_name">Полное имя</string>
+    <string name="full_name_hint">Введите полное имя</string>
+
+    <string name="login">Логин</string>
+    <string name="login_hint">Введите логин</string>
+
+    <string name="email">E-mail</string>
+    <string name="email_hint">Введите E-mail</string>
+
+    <string name="phone">Номер телефона</string>
+    <string name="phone_hint">Введите номер телефона</string>
+
+    <string name="password">Пароль</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="repeat_password_hint">Повторите пароль</string>
+
+    <string name="birth_date">Дата рождения</string>
+    <string name="birth_date_hint">Введите дату рождения</string>
+
+    <string name="item_from_list">Выберите элемент из списка</string>
+
+    <string name="agreement">Я соглашаюсь на обработку персональных данных</string>
+
+    <string name="close">Закрыть</string>
+
+</resources>

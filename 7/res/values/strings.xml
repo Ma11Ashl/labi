@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string-array name="string_array">
+        <item>Alohomora</item>
+        <item>Expelliarmus</item>
+        <item>Avada Kedavra</item>
+        <item>Riddikulus</item>
+        <item>Leviosa</item>
+        <item>Accio</item>
+        <item>Lumos</item>
+        <item>Reducto</item>
+        <item>Avada Kedavra</item>
+        <item>Stupefy</item>
+        <item>Levicorpus</item>
+        <item>Imperio</item>
+        <item>Sectumsempra</item>
+        <item>Crucio</item>
+        <item>Finite Incantatem</item>
+        <item>Petrificus Totalus</item>
+        <item>Forcifors</item>
+        <item>Mobiliarbus</item>
+        <item>Expelliarmus</item>
+        <item>Protego</item>
+    </string-array>
+
+    <string name="registration">Registration</string>
+
+    <string name="full_name">Full name</string>
+    <string name="full_name_hint">Enter full name</string>
+
+    <string name="login">Login</string>
+    <string name="login_hint">Enter login</string>
+
+    <string name="email">E-mail</string>
+    <string name="email_hint">Enter e-mail</string>
+
+    <string name="phone">Phone number</string>
+    <string name="phone_hint">Enter phone number</string>
+
+    <string name="password">Password</string>
+    <string name="password_hint">Enter password</string>
+    <string name="repeat_password_hint">Repeat password</string>
+
+    <string name="birth_date">Birth date</string>
+    <string name="birth_date_hint">Enter birth date</string>
+
+    <string name="item_from_list">Choose item from list</string>
+
+    <string name="agreement">I agree to the processing of personal data</string>
+
+    <string name="close">Close</string>
+
+</resources>
